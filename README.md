@@ -1,4 +1,4 @@
-Twitter Sentiment Analysis
+<b>Twitter Sentiment Analysis: </b>  <br>
 This project focuses on classifying the sentiment of tweets as positive or negative using three machine learning models: Random Forest, Multinomial Naive Bayes, and Logistic Regression. The dataset is preprocessed to clean the text, and feature extraction is done using TF-IDF.
 
 After training and evaluating the models, the Random Forest classifier achieved the highest accuracy of 87%, making it the best-performing model for this task.
